@@ -1,3 +1,6 @@
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # the subpath of your site, e.g. /blog
-title: "" # the name of your site, e.g. ACME Corp.
+title: Mi sitio Jekyll
+description: Sitio creado desde cero
+baseurl: ""        # IMPORTANTE (se cambia luego)
+url: ""            # GitHub Pages lo define
+
+markdown: kramdown

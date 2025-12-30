@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Happy Jekylling!"
+title: Inicio
 ---
 
-## You're ready to go!
+## Bienvenido
 
-Start developing your Jekyll website.
+Este sitio usa **Jekyll + GitHub Pages** sin plantillas.
